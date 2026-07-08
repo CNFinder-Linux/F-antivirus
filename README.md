@@ -1,4 +1,4 @@
-# 🛡️ AI360 杀软
+# 🛡️ AI杀软
 
 **AI驱动的智能文件安全检测工具** — 实时监控新建文件、检测恶意脚本执行、自动隔离风险。
 
@@ -131,7 +131,7 @@ git commit -m "Initial commit: AI360 Antivirus"
 gh repo create AI360 --public --source=. --push
 ```
 
-上传后修改 `deploy.sh` 顶部的 `GITHUB_USER` 和 `GITHUB_REPO`，然后用户即可一键安装。
+上传后修改 `deploy.sh` 顶部的 `GITHUB_USER` 和 `GITHUB_REPO`，然后即可一键安装。
 
 ## ⚠️ 安全提示
 

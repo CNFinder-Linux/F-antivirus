@@ -1,0 +1,15 @@
+{
+  "api_provider": "openai",
+  "api_key": "sk-test123",
+  "api_base_url": "https://api.openai.com/v1",
+  "api_model": "gpt-4o-mini",
+  "enable_ai_scan": true,
+  "auto_quarantine": true,
+  "watch_dirs": [
+    "/home/finder/下载",
+    "/home/finder/Desktop",
+    "/home/finder/桌面",
+    "/home/finder/Downloads",
+    "/tmp"
+  ]
+}

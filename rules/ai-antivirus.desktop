@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=AI杀软
+Comment=AI驱动的智能文件安全检测
+Exec=/home/finder/桌面/AI-Antivirus/ai_antivirus.py start
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
